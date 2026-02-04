@@ -1,9 +1,3 @@
-It makes sense that you want to scrub the "Lovable" branding—especially if you're planning to showcase this on your **Ambrose-oj** GitHub profile. You want the README to reflect **24Media Global**, not the tool you used to build it.
-
-Here is a professional, personalized version of the README that focuses on your brand and the technical stack.
-
----
-
 # 24Media Global | Creative Digital Agency
 
 **Your Voice. Your Vision. Our Execution.**
