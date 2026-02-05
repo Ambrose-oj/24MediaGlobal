@@ -23,8 +23,8 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: Instagram, href: "https://instagram.com/24mediaglobal", label: "Instagram" },
-    { icon: Linkedin, href: "https://linkedin.com/company/24mediaglobal", label: "LinkedIn" },
-    { icon: Twitter, href: "https://twitter.com/24mediaglobal", label: "Twitter" },
+    { icon: Linkedin, href: "https://www.linkedin.com/company/24media-global/", label: "LinkedIn" },
+    { icon: Twitter, href: "https://x.com/24media_global", label: "Twitter" },
   ];
 
   return (
