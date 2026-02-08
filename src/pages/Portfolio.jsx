@@ -64,10 +64,10 @@ const Portfolio = () => {
       <section className="py-16 bg-secondary">
         <div className="container-custom">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-            <StatCounter end={91} suffix="K+" label="Max IG Followers Grown" className="text-green-500" />
-            <StatCounter end={283} suffix="K+" label="Largest Account Reach" className="text-green-500" />
-            <StatCounter end={10} suffix="K+" label="YouTube Subs Gained" className="text-green-500" />
-            <StatCounter end={30} suffix="K+" label="TikTok Followers Built" className="text-green-500" />
+            <StatCounter end={30} suffix="+" label="Brands Supported" className="text-green-500" />
+            <StatCounter end={5000} suffix="+" label="Content Assets Delivered" className="text-green-500" />
+            <StatCounter end={1} suffix="M+" label="Digital Reach Across Platforms" className="text-green-500" />
+            <StatCounter end={2} suffix="+" label="Years Building Visible Brands" className="text-green-500" />
           </div>
         </div>
       </section>

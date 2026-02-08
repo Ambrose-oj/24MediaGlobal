@@ -10,7 +10,7 @@ const services = [
     icon: <Palette className="w-8 h-8" />,
     title: "Branding",
     subtitle: "Define Your Identity",
-    description: "We help businesses define and express their identity - creating a professional and cohesive brand presence that resonates with your audience.",
+    description: "We help businesses stand out and build trust by creating a professional, cohesive brand that resonates with your audience.",
     features: [
       "Logo design and variations",
       "Color palette development",
@@ -24,10 +24,10 @@ const services = [
     icon: <Share2 className="w-8 h-8" />,
     title: "Social Media Management",
     subtitle: "Grow Your Presence",
-    description: "We manage your social media accounts end-to-end content planning, posting, engagement, and growth - so your brand stays active and consistent without you having to handle it.",
+    description: "We manage your social media end-to-end, driving engagement, visibility, and growth so your brand connects with the right audience.",
     features: [
       "Content calendar planning",
-      "Daily posting and scheduling",
+      "Consistent posting and scheduling",
       "Community engagement",
       "Analytics and reporting",
       "Growth strategy execution",
@@ -38,7 +38,7 @@ const services = [
     icon: <Video className="w-8 h-8" />,
     title: "Content Creation",
     subtitle: "Captivate Your Audience",
-    description: "We produce high-quality reels, graphics, and videos tailored to your brand - designed to engage your audience and communicate your message effectively.",
+    description: "We produce high-quality reels, graphics, and videos designed to engage, convert, and strengthen your brand presence.",
     features: [
       "Reels and short-form video",
       "Graphic design for social",

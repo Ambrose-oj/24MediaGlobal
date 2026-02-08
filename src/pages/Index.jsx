@@ -17,9 +17,8 @@ const tickerItems = [
   "Content Creation",
   "Custom Print Solutions",
   "Strategy to Execution",
-  "0 → 19K Followers",
   "Professional Excellence",
-  "Your Vision, Our Execution",
+  "Your Voice. Your Vision. Our Execution",
 ];
 
 const services = [
@@ -136,13 +135,13 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="order-2 lg:order-1 animate-slide-in-left">
               <span className="inline-block text-primary text-sm font-semibold uppercase tracking-wider mb-4">
-                Creative Digital Agency
+                Creative Media Agency
               </span>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6 leading-tight">
                 Your Voice. Your Vision.{" "}
                 <span className="text-primary">
                   <TypeWriter
-                    words={["Our Execution.", "Our Strategy.", "Our Creativity."]}
+                    words={["Our Execution.", "Our Strategy.", "Brought to Life.", "Visible Impact."]}
                     typingSpeed={80}
                     deletingSpeed={40}
                     pauseDuration={2500}
@@ -150,12 +149,12 @@ const Index = () => {
                 </span>
               </h1>
               <p className="text-muted-foreground text-lg md:text-xl leading-relaxed mb-8 max-w-xl">
-                We help busy professionals and growing brands show up clearly and consistently turning your vision into results without the stress.
+                We help busy professionals and growing brands show up clearly and consistently; turning your vision into results without the stress.
               </p>
               <div className="flex flex-wrap gap-4">
-                <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+                <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground uppercase tracking-wider">
                   <Link to="/contact">
-                    Book a Discovery Call
+                    Talk To Us
                     <ArrowRight className="ml-2 h-5 w-5" />
                   </Link>
                 </Button>
@@ -227,10 +226,10 @@ const Index = () => {
               </Button>
             </div>
             <div className="grid grid-cols-2 gap-8">
-              <StatCounter end={91} suffix="K+" label="Instagram Followers Grown" className="text-green-500" />
-              <StatCounter end={283} suffix="K+" label="Max Account Reach" className="text-green-500" />
-              <StatCounter end={10} suffix="K+" label="YouTube Subscribers" className="text-green-500" />
-              <StatCounter end={30} suffix="K+" label="TikTok Followers" className="text-green-500" />
+              <StatCounter end={30} suffix="+" label="Brands Supported" className="text-green-500" />
+              <StatCounter end={5000} suffix="+" label="Content Assets Delivered" className="text-green-500" />
+              <StatCounter end={1} suffix="M+" label="Digital Reach Across Platforms" className="text-green-500" />
+              <StatCounter end={2} suffix="+" label="Years Building Visible Brands" className="text-green-500" />
             </div>
           </div>
         </div>
